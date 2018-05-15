@@ -6,8 +6,9 @@ Welcome to the **LiveBoost** repository of datasets and code sharing.
 The goal of this repository is to make our method more transparent and reproducible.
 
 # Datasets
-**discovery_set.csv** is the discovery dataset contains 490 HBV infected subjects with their histopathologic staging of hepatic fibrosis, Age, AST, ALT, PLT, and FIB_4.
-**validation_set1.csv** is the validation dataset-1 contains 86 HBV infected subjects with their histopathologic staging of hepatic fibrosis, Age, AST, ALT, PLT, and FIB_4.
+**Discovery_set.csv** is the discovery dataset contains 490 HBV infected subjects with their histopathologic staging of hepatic fibrosis, Age, AST, ALT, PLT, and FIB_4.
+
+**Validation_set1.csv** is the validation dataset-1 contains 86 HBV infected subjects with their histopathologic staging of hepatic fibrosis, Age, AST, ALT, PLT, and FIB_4.
 
 # Code
 **Code Sharing.Rmd** provides session information, package requirements, and all ready-to-use codes written in R.
