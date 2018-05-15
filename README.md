@@ -1,4 +1,5 @@
 Please cite our paper once it is published: (Submitted).
+
 For sending comments, suggestions, bug reports of LiveBoost, please email to Runmin Wei (RWei AT cc DOT hawaii DOT edu).
 
 # Introduction
