@@ -11,6 +11,10 @@ The goal of this repository is to make our method more transparent and reproduci
 
 **Validation_set1.csv** is the validation dataset-1 contains 86 HBV infected subjects with their histopathologic staging of hepatic fibrosis, Age, AST, ALT, PLT, and FIB_4.
 
+For validation dataset-2, please refer to the original paper: https://doi.org/10.1371/journal.pone.0190455.
+
+For validation dataset-3, please refer to the original paper: https://doi.org/10.1371/journal.pone.0133515.
+
 # Code
 **Code Sharing.Rmd** provides session information, package requirements, and all ready-to-use codes written in R.
 
