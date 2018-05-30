@@ -16,7 +16,7 @@ For validation dataset-2, please refer to the original paper: https://doi.org/10
 For validation dataset-3, please refer to the original paper: https://doi.org/10.1371/journal.pone.0133515.
 
 # Code
-**Code Sharing.Rmd** provides session information, package requirements, and all ready-to-use codes written in R.
+**Code Sharing.Rmd** and **Code Sharing.pdf** provides session information, package requirements, and all ready-to-use codes written in R.
 
 # Other files
 **DT_tune_S02_S34.jpg**, **DT_tune_S03_S4.jpg**, **RF_tune_S02_S34.jpg**, **RF_tune_S03_S4.jpg**, **GB_tune_S02_S34.jpg**, and **GB_tune_S03_S4.jpg** are about how we optimize hyper-parameter settings for different models.
