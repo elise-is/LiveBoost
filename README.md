@@ -2,6 +2,8 @@ Please cite our paper:
 
 **Wei, Runmin, et al. "Clinical prediction of HBV and HCV related hepatic fibrosis using machine learning." *EBioMedicine* (2018).**
 
+https://www.sciencedirect.com/science/article/pii/S2352396418302810
+
 For sending comments, suggestions, bug reports of LiveBoost, please email to Runmin Wei (RWei AT cc DOT hawaii DOT edu).
 
 # Introduction
